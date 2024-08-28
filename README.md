@@ -1,4 +1,4 @@
-# Inheritance-example-of-area-in-Kotlin
+# Create a class rectangle with primary constr.  A and B both of double inside it create two function one is area and other is print the area
 We find area of various shapes circle , rectangle and square with the use of  inheritance in Kotlin Here is the code 
 
 Create a class rectangle with primary constr.  A and B both of double inside it create two function one is area and other is print the area */
